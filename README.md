@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi there! I'm Vũ Quốc Huy
 
-<!--
-**HuyVu2379/HuyVu2379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I'm a Software Engineering student with a strong passion for full-stack development and modern software architecture. I enjoy building efficient, scalable, and user-centric applications.
 
-Here are some ideas to get you started:
+- 🎓 Major: Software Engineering
+- 🚀 I'm currently working on real-world projects with React, Spring Boot, and Node.js
+- 🧠 Always learning and improving in both frontend and backend technologies
+- 💬 Ask me about full-stack development, software design, or my favorite tech stacks
+- 📫 How to reach me: [your-email@example.com] (you should update this)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+Here are some of the technologies I work with:
+
+- **Frontend**: React, HTML, CSS, JavaScript, TypeScript  
+- **Backend**: Spring Boot, Node.js, Java  
+- **Others**: Git, GitHub, VSCode, Postman
+
+## 📈 GitHub Stats
+![Huy's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+
+## 🔗 Connect with Me
+- 💼 LinkedIn: [https://www.linkedin.com/in/huy-v%C5%A9-b34b4b35a]
+- 📬 Email: [huyvu2379@gmail.com]
+
+---
